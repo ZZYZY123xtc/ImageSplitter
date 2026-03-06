@@ -203,9 +203,6 @@ scipy >= 1.7.0      # 连通区域标记
 
 完整列表见 [requirements.txt](requirements.txt)
 
-### 📝 许可证
-
-MIT License - 详见 LICENSE 文件
 
 ### 🤝 贡献
 
@@ -218,16 +215,11 @@ MIT License - 详见 LICENSE 文件
 4. 推送分支 (`git push origin feature/amazing-feature`)
 5. 打开 Pull Request
 
-### 📞 联系方式
-
-- 📧 Email: your.email@example.com
-- 💬 Issues: [GitHub Issues](../../issues)
-- 💭 Discussions: [GitHub Discussions](../../discussions)
-
 ### 🙏 致谢
 
 - 基于 PIL/Pillow、NumPy、SciPy 等优秀开源库
 - 感谢所有的贡献者和用户的支持
+感谢copilot！
 
 ### 📊 更新日志
 
@@ -295,15 +287,6 @@ ImageSplitter/
 - **OS**: Windows 7+
 - **Memory**: > 200 MB
 - **Disk**: EXE ~55 MB
-
-### 📞 Contact
-
-- 📧 Issues: [GitHub Issues](../../issues)
-- 💬 Discussions: [GitHub Discussions](../../discussions)
-
-### 📝 License
-
-MIT License
 
 ---
 
